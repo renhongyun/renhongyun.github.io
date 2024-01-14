@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>1.14记</title>
+      <link href="/2024/01/14/Day1/"/>
+      <url>/2024/01/14/Day1/</url>
+      
+        <content type="html"><![CDATA[<p>担心这个假期可能会染上各种好玩的软件，并且日日如此，周周如此，我想随便记录记录学习每天的进度，好！那就开始吧。</p><p>今天已经是开始vue3练习——difficultBlog的第好多天了，我的进度像蜗牛一样缓慢。</p><p><img src="/assets/image-20240114222822044.png" alt="image-20240114222822044"></p><p><img src="/assets/image-20240114222900468.png" alt="image-20240114222900468"></p><p>框架页和分页路由已经写好了，列表组件也整好了，明天把组件放到main里面，再调相应的接口、展示博客文章吧。</p><p>几年后，我会穿着洗的发白的格子衬衫加班吗？我会成为油腻的代名词吗？我是否会头发稀疏、不善言辞、</p><p>最后，拖着破碎的身体、裹着没多少的积蓄，成为被裁掉的一整层楼吗？</p><p>管他呢，如果不会，做毕设也得用吧，嗯，就毕设用好了，好的ヽ(￣▽￣)و</p><p>1.14</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生活记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>生活小记</title>
       <link href="/2023/11/16/life/"/>
       <url>/2023/11/16/life/</url>
